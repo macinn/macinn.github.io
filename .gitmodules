@@ -1,3 +1,3 @@
-[submodule "Infinite-Tic-Tac-Toe"]
-	path = Infinite-Tic-Tac-Toe
-	url = https://github.com/macinn/Infinite-Tic-Tac-Toe.git
+[submodule "ittt"]
+	path = ittt
+	url = https://github.com/macinn/infinite-tictactoe.git
